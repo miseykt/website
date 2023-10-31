@@ -9,7 +9,3 @@ navBtn.onclick = () => {
         navBtnImg.src = "img/icons/NAV OPEN.svg";
     }
 }
-
-AOS.init({
-    disable: 'mobile'
-});
